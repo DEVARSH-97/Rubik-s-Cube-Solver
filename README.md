@@ -5,7 +5,11 @@ This project implements an automatic Rubik's Cube solving machine using computer
 Features
 
 Camera Input: Captures the Rubik's Cube faces using a camera.
+
 Color Detection Model: Utilizes machine learning for accurate color detection, trained to handle various lighting conditions.
+
 Computer Screen Display: Shows the Rubik's Cube configuration on the computer screen.
+
 Kociemba Algorithm: Applies the Kociemba algorithm to determine the optimal moves for solving the Rubik's Cube.
+
 Motor Control: Executes the calculated moves on the physical cube using motors controlled by Raspberry Pi.
