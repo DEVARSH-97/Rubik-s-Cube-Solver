@@ -2,7 +2,7 @@
 
 This project implements an automatic Rubik's Cube solving machine using computer vision and motor control. The system is designed to capture input from a camera, display the cube faces on a computer screen, encode the data, and then pass it to the Kociemba algorithm for solving. The resulting moves are then translated into motor commands to solve the cube physically.
 
-#Features
+# Features
 
 Camera Input: Captures the Rubik's Cube faces using a camera.
 
